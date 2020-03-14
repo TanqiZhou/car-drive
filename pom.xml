@@ -49,4 +49,10 @@
         </dependency>
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/TanqiZhou/car-drive</url>
+        </repository>
+    </distributionManagement>
 </project>
